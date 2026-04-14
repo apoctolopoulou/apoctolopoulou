@@ -1,18 +1,14 @@
-## Hello, I'm Ioanna [ee-o-A-nah]👋🏻😃
-Welcome to my GitHub profile! I'm thrilled to have you here as I embark on my computer science learning journey. If you're reading this file, it means I'm deeply engrossed in my studies and exploring the fascinating world of computer science. 🚀
+# Hi there, I'm Ioanna! 👋
 
-### Current Focus:
+Software developer. I like breaking things and fixing them (mostly the things I break myself).
 
-📚 Working towards my BSc in Computer Science
+Lately, I've been spending most of my time with **C++** and **OpenGL**, diving into graphics and trying to figure out how to render things efficiently.
 
-🧑🏼‍🎓 Where I'm studying at: <a href="https://www.di.uoa.gr/en" target="_blank">Department of Informatics and Telecommunications</a>
+### Tech I use:
+* **Languages:** C++, C, Python
+* **Graphics/Tools:** OpenGL, Git, Linux
 
-I'm grateful for your visit to my profile and for taking the time to read this README. If you have any insights, advice, or just want to say hello, please don't hesitate to get in touch. Happy coding! 💪🏼
-
-#### ***Thank You for Stopping By!*** 😊
+I spend a fair amount of time debugging segment faults and refactoring my own code. If you want to talk about graphics, systems, or just say hi, reach out.
 
 ---
-
-*The text above was expertly crafted by ✨ChatGPT✨, the almighty AI language model by OpenAI.*
-
-*But hey, let's not get too carried away here. It's just a joke, after all.*
+*“Done is better than perfect.”*

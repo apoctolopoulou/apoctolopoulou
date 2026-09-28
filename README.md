@@ -1,6 +1,6 @@
 # Hi there, I'm Ioanna! 👋
 
-Software developer. I like breaking things and fixing them (mostly the things I break myself).
+Software developer; I like breaking things and fixing them (mostly the things I break myself).
 
 ### Tech I use:
 * **Languages:** C++, C, Python
